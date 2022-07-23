@@ -4,7 +4,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 
 **Hours spend on lerning basic of software testing since 1 May 2022:**
 
-_188_ and counting...
+_221_ and counting...
 
 # How I Learn to Test
 
@@ -14,6 +14,7 @@ _188_ and counting...
 - Praktyka Testowania; _Radosław Smilgin_
 - Testowanie Oprogramowania. Podręcznik Dla Początkujacych; _Rafał Pawlak_
 - Pasja testowania; _Krzysztof Jadczyk_
+- Testowanie kodu w praktyce; _Renu Rajani_
 
 # Udemy:
 
@@ -21,19 +22,17 @@ _188_ and counting...
 - The Complete 2022 Software tsting Bootcamp; _Nezan Academy_
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
+- Wprowadzenie do Git i GitHub; _Samuraj Programowania_
 
 # Other Courses:
 
-- 7dniowy Maraton HTML; _GoIT_
-- Inicjatywa COLT 1/2022; _Anna Czyrko_
+-[Kurs MySQL](https://youtu.be/99JAI24Zd24)
+-[Kurs SQL](https://youtu.be/BcZmEaX8u3w)
 
-# SQL
+# Projects:
 
--[Kurs MySQL](https://www.youtube.com/watch?v=99JAI24Zd24)
-
--[Kurs SQL](https://www.youtube.com/watch?v=BcZmEaX8u3w)
-
--[Strona do ćwiczeń](https://www.w3schools.com)
+- [7dniowy Maraton HTML; _GoIT](https://illustrious-tiramisu-5837f9.netlify.app)
+- [Inicjatywa COLT 1/2022; _Anna Czyrko](https://www.linkedin.com/company/cherry-it-pl/)
 
 # ISTQB
 
