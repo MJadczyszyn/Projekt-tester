@@ -3,6 +3,7 @@
 I am a young and ambitious person who plans to work as a software tester in the future. I am currently preparing to pass the ISTQB certificate. I work in the purchasing department and have experience in auditing suppliers. I strongly believe that my experince will be useful in testing branch.
 
 **Hours spend on lerning basic of software testing since 1 May 2022:**
+
 _229_ and counting...
 
 
@@ -33,8 +34,8 @@ _229_ and counting...
 
 # Projects:
 
-- [7dniowy Maraton HTML; _GoIT](https://illustrious-tiramisu-5837f9.netlify.app)
-- [Inicjatywa COLT 1/2022; _Anna Czyrko](https://www.linkedin.com/company/cherry-it-pl/)
+- [7dniowy Maraton HTML; _GoIT_](https://illustrious-tiramisu-5837f9.netlify.app)
+- [Inicjatywa COLT 1/2022; _Anna Czyrko_](https://www.linkedin.com/company/cherry-it-pl/)
 
 # ISTQB
 
@@ -51,4 +52,5 @@ _229_ and counting...
 - Postman
 - Visual Studio Code
 - ClickUp
+
 =======
