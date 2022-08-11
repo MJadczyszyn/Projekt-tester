@@ -22,6 +22,7 @@ _229_ and counting...
 - The Complete 2022 Software tsting Bootcamp; _Nezan Academy_
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
+- Postman: The Complete Guise - REST API testing; _Valentin Despa_
 - Automatyzacja testów: WebdriverIO + Typescript - Jenkins; _Testowanie Oprogramowania_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_
 
@@ -30,6 +31,7 @@ _229_ and counting...
 - [Kurs MySQL](https://youtu.be/99JAI24Zd24)
 - [Kurs SQL](https://youtu.be/BcZmEaX8u3w)
 - [Kurs Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
+- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
 
 # Projects:
 
@@ -51,4 +53,5 @@ _229_ and counting...
 - Postman
 - Visual Studio Code
 - ClickUp
+- Keybr.com
 =======
