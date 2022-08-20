@@ -4,7 +4,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 
 **Hours spend on lerning basic of software testing since 1 May 2022:**
 
-_273_ and counting...
+_285_ and counting...
 
 
 # How I Learn to Test
@@ -16,6 +16,7 @@ _273_ and counting...
 - Testowanie Oprogramowania. Podręcznik Dla Początkujacych; _Rafał Pawlak_
 - Pasja testowania; _Krzysztof Jadczyk_
 - Testowanie kodu w praktyce; _Renu Rajani_
+- Testowanie oprogramowania w praktyce - Studium przypadków; _Adam Roman i Karolina Zmitrowicz_
 
 # Udemy:
 
@@ -24,15 +25,14 @@ _273_ and counting...
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_
-- Automatyzacja testów: WebdriverIO + Typescript - Jenkins; _Testowanie Oprogramowania_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_
 
 # Other Courses:
 
 - [Kurs MySQL](https://youtu.be/99JAI24Zd24)
 - [Kurs SQL](https://youtu.be/BcZmEaX8u3w)
-- [Kurs Postman](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
+- [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
 
 # Projects:
 
