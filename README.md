@@ -4,10 +4,10 @@ I am a young and ambitious person who plans to work as a software tester in the 
 
 **Hours spend on lerning basic of software testing since 1 May 2022:**
 
-_285_ and counting...
+_311_ and counting...
 
 
-# How I Learn to Test
+# How I learn to test
 
 # Books:
 
@@ -27,7 +27,7 @@ _285_ and counting...
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_
 
-# Other Courses:
+# Other courses:
 
 - [Kurs MySQL](https://youtu.be/99JAI24Zd24)
 - [Kurs SQL](https://youtu.be/BcZmEaX8u3w)
@@ -37,16 +37,16 @@ _285_ and counting...
 # Projects:
 
 - [7dniowy Maraton HTML; _GoIT_](https://illustrious-tiramisu-5837f9.netlify.app)
-- [Inicjatywa COLT 1/2022; _Anna Czyrko_](https://www.linkedin.com/company/cherry-it-pl/)
+- [Inicjatywa COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
 
-# ISTQB
+# ISTQB:
 
 - Sylabus Certyfikowany Tester Poziom Podstawowy
 - Ćwiczenia Certyfikowany Tester Poziom Podstawowy
 - Materiały z warsztatów podsumowujących dla uczestników programu "Pozytywna Energia w IT"
 - Prywatne notatki
 
-# TOOLS
+# Tools I use:
 
 - Picpick
 - ShareX
@@ -56,3 +56,10 @@ _285_ and counting...
 - ClickUp
 - Keybr.com
 
+# Websites I use:
+
+- [testerzy](https://testerzy.pl)
+- [jaktestowac](https://jaktestowac.pl)
+- [cherry-it](http://cherry-it.pl)
+- [wyszkolewas](https://www.wyszkolewas.com.pl)
+- [softwaretestinghelp](https://www.softwaretestinghelp.com)
