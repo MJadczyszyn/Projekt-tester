@@ -1,15 +1,17 @@
 # About me
 
-I am a young and ambitious person who plans to work as a software tester in the future. I am currently preparing to pass the ISTQB certificate. I work in the purchasing department and have experience in auditing suppliers. I strongly believe that my experince will be useful in testing branch.
+I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundaments of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. My tasks include negotiating contracts, auditing suppliers, filing complaints, writing internal procedures, monitoring stock levels. I strongly believe that my experince will be useful in testing branch.
 
-**Hours spend on lerning basic of software testing since 1 May 2022:**
+# Projects:
 
-_311_ and counting...
-
+- [CV - 7dniowy Maraton HTML; _GoIT_](https://illustrious-tiramisu-5837f9.netlify.app)
+- [Inicjatywa COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
+- [Ćwiczenia na podstawie książki: Praktyka Testowania; _Radosław Smilgin_](https://docs.google.com/spreadsheets/d/163KowKcfzxLwzyOmMvLWf9pyZlakDln_9uweghVmKJg/edit?usp=sharing)
+- [40 bugs per month]
 
 # How I learn to test
 
-# Books:
+# Technical Books:
 
 - Zawód tester. Od decyzji do zdobycia doświadczenia; _Radosław Smilgin_
 - Praktyka Testowania; _Radosław Smilgin_
@@ -18,14 +20,14 @@ _311_ and counting...
 - Testowanie kodu w praktyce; _Renu Rajani_
 - Testowanie oprogramowania w praktyce - Studium przypadków; _Adam Roman i Karolina Zmitrowicz_
 
-# Udemy:
+# Udemy courses:
 
 - Praktyczny kurs testowania oprogramowania; _Testowanie Oprogramowania_
 - The Complete 2022 Software tsting Bootcamp; _Nezan Academy_
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
-- Postman: The Complete Guise - REST API testing; _Valentin Despa_
-- Wprowadzenie do Git i GitHub; _Samuraj Programowania_
+- Wprowadzenie do Git i GitHub; _Samuraj Programowania_ 
+- Postman: The Complete Guise - REST API testing; _Valentin Despa_ [IN PROGRESS...]
 
 # Other courses:
 
@@ -34,12 +36,8 @@ _311_ and counting...
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
 - [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
 
-# Projects:
 
-- [7dniowy Maraton HTML; _GoIT_](https://illustrious-tiramisu-5837f9.netlify.app)
-- [Inicjatywa COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
-
-# ISTQB:
+# ISTQB learning resources:
 
 - Sylabus Certyfikowany Tester Poziom Podstawowy
 - Ćwiczenia Certyfikowany Tester Poziom Podstawowy
@@ -48,13 +46,15 @@ _311_ and counting...
 
 # Tools I use:
 
-- Picpick
-- ShareX
-- Jira & Trello
-- Postman
-- Visual Studio Code
-- ClickUp
-- Keybr.com
+- Picpick: Screenshot tool
+- ShareX: Recording and editing video software
+- Jira & Trello: Bug reporting
+- Postman: API testing
+- DevTools: Improving bug reports
+- Visual Studio Code: Writing basic code
+- ClickUp: Time management
+- Slack: Communication and collaboration
+- Keybr.com: Learning fast typing
 
 # Websites I use:
 
@@ -63,3 +63,9 @@ _311_ and counting...
 - [cherry-it](http://cherry-it.pl)
 - [wyszkolewas](https://www.wyszkolewas.com.pl)
 - [softwaretestinghelp](https://www.softwaretestinghelp.com)
+
+# Social media I read:
+- Testowanie oprogramowania (Facebook)
+- Tester oprogramowania - wsparcie na starcie (Facebook)
+- Tester oprogramowania - jak nim zostać? (Facebook)
+- Team testerski (Discord)
