@@ -2,14 +2,14 @@
 
 I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. My tasks include negotiating contracts, auditing suppliers, filing complaints, writing internal procedures, monitoring stock levels. I strongly believe that my experince will be useful in testing branch.
 
+
 # Projects:
 
 - [Exercises based on the book: Praktyka Testowania; _Radosław Smilgin_](https://docs.google.com/spreadsheets/d/163KowKcfzxLwzyOmMvLWf9pyZlakDln_9uweghVmKJg/edit?usp=sharing)
 - [10 bugs per week - samples of my bug reports; _Own project_](https://docs.google.com/spreadsheets/d/1JS9idzfjVifGMCKWfQ7JGoS15K8b2oEH2a1GbwxYTwQ/edit?usp=sharing)
 - [Test scenario made for COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
-- [CV - 7-day marathon HTML; _GoIT_](https://illustrious-tiramisu-5837f9.netlify.app)
+- [CV - 7-day marathon HTML; _GoIT_](https://mellifluous-taffy-258c68.netlify.app)
 
-# How I learn to test
 
 # Technical Books:
 
@@ -21,6 +21,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Testowanie oprogramowania w praktyce - Studium przypadków; _Adam Roman i Karolina Zmitrowicz_
 - Software Testing Career Package; _Vijay Shinde_ [IN PROGRESS...]
 
+
 # Udemy courses:
 
 - Praktyczny kurs testowania oprogramowania; _Testowanie Oprogramowania_
@@ -29,6 +30,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_ 
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_ [IN PROGRESS...]
+
 
 # Other courses:
 
@@ -45,6 +47,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Materiały z warsztatów podsumowujących dla uczestników programu "Pozytywna Energia w IT"
 - Prywatne notatki
 
+
 # Tools I use:
 
 - Picpick: Screenshot tool
@@ -57,6 +60,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Slack: Communication and collaboration
 - Keybr.com: Learning fast typing
 
+
 # Websites I use:
 
 - [testerzy](https://testerzy.pl)
@@ -65,8 +69,22 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - [wyszkolewas](https://www.wyszkolewas.com.pl)
 - [softwaretestinghelp](https://www.softwaretestinghelp.com)
 
+
 # Social media I read:
+
 - Testowanie oprogramowania (Facebook)
 - Tester oprogramowania - wsparcie na starcie (Facebook)
 - Tester oprogramowania - jak nim zostać? (Facebook)
+- Szkolenie dla QA (Discord)
 - Team testerski (Discord)
+
+
+# In my free time:
+
+- Cycling - My main sport activity recently.
+- Football -  Due to a knee injury I was forced to stop playing football. In my spare time, I mainly watch Serie A competitions.
+- Games - I prefer games where I can compete with other players. I play city builders and RPGs from time to time.
+- Boardgames & puzzles - This is a new hobby for me. It is a great way to spend time with friends.
+- Movies - I've probably watched too many movies (around 1,600) and still have a lot to watch.
+- Music - I used to listen a lot of rock music. I even try my hands on drums.
+- Fragrances - I spend too much money on this hobby.
