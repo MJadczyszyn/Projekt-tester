@@ -1,6 +1,6 @@
 # About me
 
-I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. My tasks include negotiating contracts, auditing suppliers, filing complaints, writing internal procedures, monitoring stock levels. I strongly believe that my experince will be useful in testing branch. 
+I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. I strongly believe that my experince will be useful in testing branch. 
 
 You can find more information about me [here.](https://github.com/MJadczyszyn/Projekt-tester/blob/main/moreabouteme.md)
 
