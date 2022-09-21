@@ -1,12 +1,22 @@
-# My task in current job:
+# More about me
+
+# My main tasks in current job:
+- I am part of the design and test group team in the process of implementing a new ERP system in my company.
+- Auditing suppliers and preparing reports.
+- Supervision over IFS documentation covering the scope of the Purchasing Department.
+- Participation in the design processes of new products.
+- Negotiating contracts.
+- Filing complaints.
+- Monitoring stock levels.
+- Finding new suppliers.
+- Writing internal procedures.
 
 
+# Plans for the future:
+First and foremost, I would like to consolidate my knowledge of the basics of testing. I am looking for my first job as a software tester to get a commercial experience. Furthermore, I would like to learn basic of Javascript and Java. Performance testing seems to be an interesting way to develop. In the near future, I plan to learn tools like Jmeter, Selenium, Jenkins, Docker. 
 
-# Plans for the futre:
 
-
-
-# In my free time:
+# Hobbies:
 
 - Cycling - My main sport activity recently.
 - Football -  Due to a knee injury I was forced to stop playing football. In my spare time, I mainly watch Serie A competitions.
