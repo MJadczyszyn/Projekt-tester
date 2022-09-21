@@ -1,7 +1,8 @@
 # About me
 
-I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. My tasks include negotiating contracts, auditing suppliers, filing complaints, writing internal procedures, monitoring stock levels. I strongly believe that my experince will be useful in testing branch.
+I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. My tasks include negotiating contracts, auditing suppliers, filing complaints, writing internal procedures, monitoring stock levels. I strongly believe that my experince will be useful in testing branch. 
 
+You can find more information about me [here.](https://github.com/MJadczyszyn/Projekt-tester/blob/main/moreabouteme.md)
 
 # Projects:
 
@@ -77,14 +78,3 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Tester oprogramowania - jak nim zostać? (Facebook)
 - Szkolenie dla QA (Discord)
 - Team testerski (Discord)
-
-
-# In my free time:
-
-- Cycling - My main sport activity recently.
-- Football -  Due to a knee injury I was forced to stop playing football. In my spare time, I mainly watch Serie A competitions.
-- Games - I prefer games where I can compete with other players. I play city builders and RPGs from time to time.
-- Boardgames & puzzles - This is a new hobby for me. It is a great way to spend time with friends.
-- Movies - I've probably watched too many movies (around 1,600) and still have a lot to watch.
-- Music - I used to listen a lot of rock music. I even try my hands on drums.
-- Fragrances - I spend too much money on this hobby.
