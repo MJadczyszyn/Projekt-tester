@@ -1,6 +1,6 @@
 # More about me
 
-# My main tasks in current job:
+# My main tasks in the current job:
 - I am part of the design and test group team in the process of implementing a new ERP system in my company.
 - Auditing suppliers and preparing reports.
 - Supervision over IFS documentation covering the scope of the Purchasing Department.
