@@ -7,3 +7,6 @@ This is where I store the certificates I have managed to obtain. Unfortunately, 
 - [The Complete 2022 Software Testing Bootcamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/The%20Complete%202022%20Software%20Testing%20Bootcamp.pdf)
 
 - [Postman od podstaw - testowanie REST API](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Postman%20od%20podstaw%20-%20testowanie%20REST%20API.pdf)
+
+
+- [Konsola deweloperska - Szkolenie dla QA](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/DevTools%20Certyfikat_MJ.png)
