@@ -30,6 +30,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_ 
+- Javascript for Beginners The Complete Course for Beginers; _Meta Brains_
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_ [IN PROGRESS...]
 
 
