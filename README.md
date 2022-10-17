@@ -20,8 +20,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Pasja testowania; _Krzysztof Jadczyk_
 - Testowanie kodu w praktyce; _Renu Rajani_
 - Testowanie oprogramowania w praktyce - Studium przypadków; _Adam Roman i Karolina Zmitrowicz_
-- Software Testing Career Package; _Vijay Shinde_ [IN PROGRESS...]
-
+- Certyfikowany tester ISTQB. Poziom podstawowy; _Adam Roman, Lucjan Stapp_
 
 # Udemy courses:
 
