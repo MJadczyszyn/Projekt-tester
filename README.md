@@ -21,6 +21,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Testowanie kodu w praktyce; _Renu Rajani_
 - Testowanie oprogramowania w praktyce - Studium przypadków; _Adam Roman i Karolina Zmitrowicz_
 - Certyfikowany tester ISTQB. Poziom podstawowy; _Adam Roman, Lucjan Stapp_
+- Agile Testing: A Practical Guide for Testers and Agile Teams; _Lisa Crispin i Janet Gregory_
 
 # Udemy courses:
 
