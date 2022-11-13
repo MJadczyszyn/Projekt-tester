@@ -38,6 +38,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 # Other courses:
 
 - [Konsola deweloperska - Szkolenie dla QA](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/DevTools%20Certyfikat_MJ.png)
+- [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
 - [Kurs MySQL](https://youtu.be/99JAI24Zd24)
 - [Kurs SQL](https://youtu.be/BcZmEaX8u3w)
 - [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
