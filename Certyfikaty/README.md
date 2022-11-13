@@ -14,3 +14,5 @@ This is where I store the certificates I have managed to obtain. Unfortunately, 
 - [Javascript for Beginners The Complete Course for Beginers](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Javascript%20for%20Beginners%20The%20Complete%20Course%20for%20Beginers.jpg)
 
 - [Postman The Complete Guide - REST API testing](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Postman%20The%20Complete%20Guide%20-%20REST%20API%20testing.pdf)
+
+- [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
