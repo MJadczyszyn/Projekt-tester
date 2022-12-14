@@ -16,3 +16,5 @@ This is where I store the certificates I have managed to obtain. Unfortunately, 
 - [Postman The Complete Guide - REST API testing](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Postman%20The%20Complete%20Guide%20-%20REST%20API%20testing.pdf)
 
 - [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
+
+- [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
