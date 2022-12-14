@@ -39,10 +39,9 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 
 - [Konsola deweloperska - Szkolenie dla QA](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/DevTools%20Certyfikat_MJ.png)
 - [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
-- [Kurs MySQL](https://youtu.be/99JAI24Zd24)
-- [Kurs SQL](https://youtu.be/BcZmEaX8u3w)
-- [Agile with Atlassian Jira](https://www.coursera.org/learn/agile-atlassian-jira)
 - [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
+- [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
+
 
 
 # ISTQB learning resources:
@@ -56,7 +55,6 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 # Tools I use:
 
 - Picpick: Screenshot tool
-- ShareX: Recording and editing video software
 - Jira & Trello: Bug reporting
 - Postman: API testing
 - DevTools: Improving bug reports
@@ -72,7 +70,6 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - [jaktestowac](https://jaktestowac.pl)
 - [cherry-it](http://cherry-it.pl)
 - [wyszkolewas](https://www.wyszkolewas.com.pl)
-- [softwaretestinghelp](https://www.softwaretestinghelp.com)
 
 
 # Social media I read:
