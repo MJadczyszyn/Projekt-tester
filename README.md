@@ -10,6 +10,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - [10 bugs per week - samples of my bug reports; _Own project_](https://docs.google.com/spreadsheets/d/1JS9idzfjVifGMCKWfQ7JGoS15K8b2oEH2a1GbwxYTwQ/edit?usp=sharing)
 - [Test scenario made for COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
 - [CV - 7-day marathon HTML; _GoIT_](https://mellifluous-taffy-258c68.netlify.app)
+- Projekt treningowy 2/2022 w terminie: 11.2022-12.2022 ; _Cherry-IT_ [In Progress]
 
 
 # Technical Books:
@@ -23,6 +24,7 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Certyfikowany tester ISTQB. Poziom podstawowy; _Adam Roman, Lucjan Stapp_
 - Agile Testing: A Practical Guide for Testers and Agile Teams; _Lisa Crispin i Janet Gregory_
 
+
 # Udemy courses:
 
 - Praktyczny kurs testowania oprogramowania; _Testowanie Oprogramowania_
@@ -31,8 +33,8 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
 - Wprowadzenie do Git i GitHub; _Samuraj Programowania_ 
 - Javascript for Beginners The Complete Course for Beginers; _Meta Brains_
+- JavaScript for QA Engineers and SDETs; _Jason Myers_
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_
-- JavaScript for QA Engineers and SDETs; _Jason Myers_ [In Progress]
 
 
 # Other courses:
@@ -41,7 +43,6 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
 - [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
 - [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
-
 
 
 # ISTQB learning resources:
