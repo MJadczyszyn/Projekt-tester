@@ -18,3 +18,7 @@ This is where I store the certificates I have managed to obtain. Unfortunately, 
 - [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
 
 - [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
+
+- [Agile, Scrum, Kanban & XP](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Agile%2C%20Srum%2C%20Kanban%20%26%20XP.pdf)
+
+- [Certificate of Achievement](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Preply%20certificate.pdf)
