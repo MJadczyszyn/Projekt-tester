@@ -1,8 +1,6 @@
 # About me
 
-I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. I strongly believe that my experince will be useful in testing branch. 
-
-You can find more information about me [here.](https://github.com/MJadczyszyn/Projekt-tester/blob/main/moreabouteme.md)
+I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. I strongly believe that my experince will be useful in testing branch.
 
 # Projects:
 
@@ -11,7 +9,6 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - [Test scenario made for COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
 - [CV - 7-day marathon HTML; _GoIT_](https://mellifluous-taffy-258c68.netlify.app)
 - Projekt treningowy 2/2022 w terminie: 11.2022-12.2022 ; _Cherry-IT_ [In Progress]
-
 
 # Technical Books:
 
@@ -24,18 +21,17 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Certyfikowany tester ISTQB. Poziom podstawowy; _Adam Roman, Lucjan Stapp_
 - Agile Testing: A Practical Guide for Testers and Agile Teams; _Lisa Crispin i Janet Gregory_
 
-
 # Udemy courses:
 
 - Praktyczny kurs testowania oprogramowania; _Testowanie Oprogramowania_
 - The Complete 2022 Software tsting Bootcamp; _Nezan Academy_
 - Bootcamp testerski - testowanie oprogramowania 2022; _Cyfrowy trener_
 - Postman od podstaw - testowanie REST API; _Testowanie Oprogramowania_
-- Wprowadzenie do Git i GitHub; _Samuraj Programowania_ 
+- Wprowadzenie do Git i GitHub; _Samuraj Programowania_
 - Javascript for Beginners The Complete Course for Beginers; _Meta Brains_
 - JavaScript for QA Engineers and SDETs; _Jason Myers_
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_
-
+- Master JMeter from Basics; _Vaibhav Singhal_ [In progress...]
 
 # Other courses:
 
@@ -44,14 +40,12 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
 - [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
 
-
 # ISTQB learning resources:
 
 - Sylabus Certyfikowany Tester Poziom Podstawowy
 - Ćwiczenia Certyfikowany Tester Poziom Podstawowy
 - Materiały z warsztatów podsumowujących dla uczestników programu "Pozytywna Energia w IT"
 - Prywatne notatki
-
 
 # Tools I use:
 
@@ -64,14 +58,12 @@ You can find more information about me [here.](https://github.com/MJadczyszyn/Pr
 - Slack: Communication and collaboration
 - Keybr.com: Learning fast typing
 
-
 # Websites I use:
 
 - [testerzy](https://testerzy.pl)
 - [jaktestowac](https://jaktestowac.pl)
 - [cherry-it](http://cherry-it.pl)
 - [wyszkolewas](https://www.wyszkolewas.com.pl)
-
 
 # Social media I read:
 
