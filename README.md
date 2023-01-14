@@ -4,11 +4,11 @@ I am a young and ambitious person who plans to work as a software tester in the 
 
 # Projects:
 
-- [Exercises based on the book: Praktyka Testowania; _Radosław Smilgin_](https://docs.google.com/spreadsheets/d/163KowKcfzxLwzyOmMvLWf9pyZlakDln_9uweghVmKJg/edit?usp=sharing)
-- [10 bugs per week - samples of my bug reports; _Own project_](https://docs.google.com/spreadsheets/d/1JS9idzfjVifGMCKWfQ7JGoS15K8b2oEH2a1GbwxYTwQ/edit?usp=sharing)
+- [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/)
 - [Test scenario made for COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
 - [CV - 7-day marathon HTML; _GoIT_](https://mellifluous-taffy-258c68.netlify.app)
-- [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/)
+- [Exercises based on the book: Praktyka Testowania; _Radosław Smilgin_](https://docs.google.com/spreadsheets/d/163KowKcfzxLwzyOmMvLWf9pyZlakDln_9uweghVmKJg/edit?usp=sharing)
+- [10 bugs per week - samples of my bug reports; _Own project_](https://docs.google.com/spreadsheets/d/1JS9idzfjVifGMCKWfQ7JGoS15K8b2oEH2a1GbwxYTwQ/edit?usp=sharing)
 
 # Technical Books:
 
@@ -31,7 +31,6 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - Javascript for Beginners The Complete Course for Beginers; _Meta Brains_
 - JavaScript for QA Engineers and SDETs; _Jason Myers_
 - Postman: The Complete Guise - REST API testing; _Valentin Despa_
-- Master JMeter from Basics; _Vaibhav Singhal_ [In progress...]
 
 # Other courses:
 
