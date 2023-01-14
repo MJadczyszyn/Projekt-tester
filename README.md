@@ -8,7 +8,7 @@ I am a young and ambitious person who plans to work as a software tester in the 
 - [10 bugs per week - samples of my bug reports; _Own project_](https://docs.google.com/spreadsheets/d/1JS9idzfjVifGMCKWfQ7JGoS15K8b2oEH2a1GbwxYTwQ/edit?usp=sharing)
 - [Test scenario made for COLT 1/2022; _Cherry-IT_](https://docs.google.com/spreadsheets/d/1xWMx2dhrPEjBawm5V0CxsDKOkZrlQ_4q1CvalUwEDDc/edit?usp=sharing)
 - [CV - 7-day marathon HTML; _GoIT_](https://mellifluous-taffy-258c68.netlify.app)
-- Projekt treningowy 2/2022 w terminie: 11.2022-12.2022 ; _Cherry-IT_ [In Progress]
+- [Cherry-IT Projekt treningowy 2/2022 Trello](http://cherry-it.pl/archiwum-projektu-treningowego-2-2022-trello/)
 
 # Technical Books:
 
