@@ -22,3 +22,7 @@ This is where I store the certificates I have managed to obtain. Unfortunately, 
 - [Agile, Scrum, Kanban & XP](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Agile%2C%20Srum%2C%20Kanban%20%26%20XP.pdf)
 
 - [Certificate of Achievement](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Preply%20certificate.pdf)
+
+- [SQL Course by Helion](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/dyplom%20-%20SQL.pdf)
+
+- [Preply certificate](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate.pdf)
