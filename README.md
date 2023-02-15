@@ -34,11 +34,11 @@ I am a young and ambitious person who has just started a career in QA. My goal i
 
 # Other courses:
 
-- [Konsola deweloperska - Szkolenie dla QA](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/DevTools%20Certyfikat_MJ.png)
-- [Naucz się SQL-a! Kurs video. 100 ćwiczeń z grupowania i łączenia tabel](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/dyplom%20-%20SQL.pdf)
-- [Intermediate SQL Queries - datacamp](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/certificate_datacamp.pdf)
-- [Saleforce - Trailhead](https://trailblazer.me/id/mjadczyszyn)
-- [Jira Fundamentals Assessment](https://github.com/MJadczyszyn/Projekt-tester/blob/main/Certyfikaty/Jira%20Fundamentals%20Assessment%20_%20Atlassian.pdf)
+- Konsola deweloperska - Szkolenie dla QA
+- Naucz się SQL-a! Kurs video. 100 ćwiczeń z grupowania i łączenia tabel
+- Intermediate SQL Queries - datacamp
+- Saleforce - Trailhead
+- Jira Fundamentals Assessment
 
 # ISTQB learning resources:
 
