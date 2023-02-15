@@ -1,6 +1,6 @@
 # About me
 
-I am a young and ambitious person who plans to work as a software tester in the future. My goal is to gain knowledge about software testing and fundamentals of software engineering. I am currently preparing to pass the ISTQB certificate. I am a person who easily gets in touch with people and prefers to work in a group. My current job is purchment specialst in food industry. I strongly believe that my experince will be useful in testing branch.
+I am a young and ambitious person who has just started a career in QA. My goal is to become a software testing specialist and gain knowledge in software engineering. I am currently preparing to pass the ISTQB FL certification. I am a person who interacts easily with people and prefers to work in a team. I always look for harmony rather than conflict in my work. I consider myself a person who easily adapts to problems. I am eager to learn different things and am fascinated by new ideas.
 
 # Projects:
 
